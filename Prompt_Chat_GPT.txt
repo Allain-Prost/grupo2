@@ -1,0 +1,30 @@
+Pergunta: Assumindo o papel de arquiteto de cloud, me diga a estrutura de aws para rodar o serviço tipo youtube
+
+
+Como arquiteto de nuvem, eu recomendaria a seguinte arquitetura para implementar um serviço semelhante ao YouTube na AWS:
+
+Armazenamento: utilize o Amazon S3 (Simple Storage Service) para armazenar os vídeos enviados pelos usuários. O Amazon S3 
+é um serviço de armazenamento altamente escalável, durável e seguro que permite armazenar e recuperar arquivos de qualquer tamanho.
+
+Processamento de vídeo: utilize o Amazon Elastic Transcoder para converter os vídeos enviados pelos usuários em diferentes 
+formatos e resoluções. O Amazon Elastic Transcoder é um serviço de processamento de vídeo totalmente gerenciado e escalável
+que permite converter vídeos de um formato para outro.
+
+Distribuição de conteúdo: utilize o Amazon CloudFront para distribuir os vídeos aos usuários finais. O Amazon CloudFront é 
+uma rede de entrega de conteúdo global que fornece um cache de borda para servir conteúdo rapidamente aos usuários finais em 
+todo o mundo.
+
+Gerenciamento de usuários: utilize o Amazon Cognito para gerenciar a autenticação e a autorização de usuários. O Amazon Cognito 
+é um serviço de gerenciamento de identidade que permite adicionar recursos de autenticação, autorização e gerenciamento de usuários
+ aos aplicativos.
+
+Banco de dados: utilize o Amazon DynamoDB para armazenar informações do usuário, como metadados de vídeo, comentários e curtidas.
+O Amazon DynamoDB é um banco de dados NoSQL altamente escalável e totalmente gerenciado que permite armazenar e recuperar dados
+ de forma rápida e confiável.
+
+Serviço de notificação: utilize o Amazon Simple Notification Service (SNS) para enviar notificações para os usuários sobre novos
+vídeos, comentários e curtidas. O Amazon SNS é um serviço de mensagens e notificações totalmente gerenciado que permite enviar
+mensagens de forma segura e confiável para aplicativos, serviços e usuários finais.
+
+Essa arquitetura pode ser expandida e personalizada de acordo com as necessidades específicas do seu serviço de vídeo. Além disso,
+a AWS oferece diversos serviços adicionais que podem ser utilizados para melhorar a escalabilidade, segurança e disponibilidade do seu serviço.
