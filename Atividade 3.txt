@@ -1,0 +1,23 @@
+3-Cada grupo será tratado como uma empresa, entregar um documento descrevendo seu app e empresa, cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento desse software.
+
+Introdução:
+O YouTube é uma plataforma de compartilhamento de vídeos online que permite aos usuários enviar, visualizar, avaliar, comentar e compartilhar vídeos. O YouTube é uma empresa da Google LLC, que foi fundada em 2005. Com mais de 2 bilhões de usuários ativos mensais, o YouTube é a maior plataforma de compartilhamento de vídeos do mundo.
+
+Visão geral da empresa:
+O YouTube é uma empresa da Google LLC, uma das maiores empresas de tecnologia do mundo. O YouTube tem uma cultura de trabalho que valoriza a inovação, a colaboração e a responsabilidade. A empresa tem uma abordagem centrada no usuário, com o objetivo de criar uma experiência de usuário excepcional para seus usuários.
+
+Descrição do aplicativo:
+O aplicativo tem uma interface de usuário intuitiva que permite aos usuários encontrar facilmente os vídeos que desejam assistir, bem como recomendações personalizadas com base no histórico de visualização do usuário.
+
+Padrões de código e nomenclatura:
+Para o desenvolvimento do aplicativo do YouTube, é importante seguir os padrões de código e nomenclatura recomendados pela Google. Algumas das práticas recomendadas incluem:
+1.Usar nomes significativos para variáveis, funções e classes, que reflitam sua finalidade e funcionalidade.
+2.Usar indentação adequada para tornar o código fácil de ler e entender.
+3.Usar comentários para explicar o propósito do código e como ele funciona.
+4.Escrever funções simples e modularizadas, que executem uma única tarefa.
+5.Usar bibliotecas de terceiros quando possível, em vez de escrever código personalizado, para economizar tempo e evitar erros comuns.
+6.Fazer testes de unidade e integração para garantir que o código esteja funcionando corretamente.
+7.Usar controle de versão para rastrear mudanças no código e colaborar com outros desenvolvedores.
+
+Conclusão:
+O aplicativo do YouTube é uma plataforma de compartilhamento de vídeos online que oferece uma experiência de usuário excepcional. Para desenvolver o aplicativo, é importante seguir os padrões de código e nomenclatura recomendados pela Google para garantir a qualidade e a manutenibilidade do código.
