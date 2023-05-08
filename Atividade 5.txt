@@ -1,0 +1,11 @@
+5-Comentem sobre a importância de usar code review! (No documento).
+
+O code review é um processo em que outro desenvolvedor revisa o código antes de ser fundido com o branch principal do repositório. Essa prática é de extrema importância para o desenvolvimento de software, e pode trazer diversos benefícios para a qualidade do código e para o desempenho do time de desenvolvimento.
+Abaixo listamos algumas razões pelas quais o code review é importante para a plataforma YouTube:
+
+1.Melhoria na qualidade do código: com um segundo par de olhos analisando o código, é possível encontrar e corrigir problemas que poderiam passar despercebidos pelo desenvolvedor que escreveu o código originalmente. Isso pode levar a uma redução no número de bugs e a um código mais limpo e organizado.
+2.Aprendizado contínuo: o code review pode ser uma oportunidade para que desenvolvedores aprendam com seus colegas e adquiram novas habilidades ou conhecimentos.
+3.Consistência no código: o code review também ajuda a garantir que o código esteja em conformidade com os padrões e as melhores práticas da equipe de desenvolvimento. Isso pode levar a um código mais consistente e mais fácil de manter.
+4.Prevenção de conflitos: o code review pode ajudar a prevenir conflitos entre diferentes partes do código, especialmente quando vários desenvolvedores trabalham no mesmo código ou no mesmo recurso.
+5.Melhoria na comunicação e colaboração: o processo de code review pode promover a comunicação e a colaboração entre os desenvolvedores, especialmente quando os comentários e as sugestões de melhorias são fornecidos de forma construtiva.
+Em resumo, o code review é uma prática importante para a plataforma YouTube, pois pode levar a um código de maior qualidade, a um aprendizado contínuo, à consistência do código, à prevenção de conflitos e à melhoria na comunicação e colaboração entre os desenvolvedores. É recomendado que o processo de code review seja incorporado à cultura da equipe de desenvolvimento como uma prática rotineira e constante.
