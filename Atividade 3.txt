@@ -1,23 +1,47 @@
 3-Cada grupo será tratado como uma empresa, entregar um documento descrevendo seu app e empresa, cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento desse software.
 
-Introdução:
-O YouTube é uma plataforma de compartilhamento de vídeos online que permite aos usuários enviar, visualizar, avaliar, comentar e compartilhar vídeos. O YouTube é uma empresa da Google LLC, que foi fundada em 2005. Com mais de 2 bilhões de usuários ativos mensais, o YouTube é a maior plataforma de compartilhamento de vídeos do mundo.
-
 Visão geral da empresa:
-O YouTube é uma empresa da Google LLC, uma das maiores empresas de tecnologia do mundo. O YouTube tem uma cultura de trabalho que valoriza a inovação, a colaboração e a responsabilidade. A empresa tem uma abordagem centrada no usuário, com o objetivo de criar uma experiência de usuário excepcional para seus usuários.
+Somos uma empresa especializada no desenvolvimento de sites e aplicativos, usando as tecnologias mais recentes e as melhores práticas da indústria. Nosso objetivo é ajudar nossos clientes a alcançar seus objetivos 
+por meio de soluções digitais que melhoram a experiência de seus usuários, aumentam a eficiência e gerando resultados mensuráveis.
+
+Como carro chefe, oferecemos serviços de desenvolvimento de plataforma de streaming de ponta a ponta para aqueles que desejam transmitir conteúdo ao vivo ou sob demanda.
+As plataformas por nós desenvolvidas são personalizáveis, escaláveis e fáceis de usar, com recursos avançados que permitem aos usuários gerenciar e monetizar seu conteúdo de streaming de forma eficaz.
+
+Nossa equipe é formada por especialistas em tecnologia, desenvolvedores, QAs, engenheiros de software e especialistas em mídia.
+
 
 Descrição do aplicativo:
+O YouTube é uma plataforma de compartilhamento de vídeos online que permite aos usuários enviar, visualizar, avaliar, comentar e compartilhar vídeos. O YouTube é uma empresa da Google LLC, que foi fundada em 2005.
+Com mais de 2 bilhões de usuários ativos mensais, o YouTube é a maior plataforma de compartilhamento de vídeos do mundo.
 O aplicativo tem uma interface de usuário intuitiva que permite aos usuários encontrar facilmente os vídeos que desejam assistir, bem como recomendações personalizadas com base no histórico de visualização do usuário.
 
 Padrões de código e nomenclatura:
-Para o desenvolvimento do aplicativo do YouTube, é importante seguir os padrões de código e nomenclatura recomendados pela Google. Algumas das práticas recomendadas incluem:
-1.Usar nomes significativos para variáveis, funções e classes, que reflitam sua finalidade e funcionalidade.
-2.Usar indentação adequada para tornar o código fácil de ler e entender.
-3.Usar comentários para explicar o propósito do código e como ele funciona.
-4.Escrever funções simples e modularizadas, que executem uma única tarefa.
-5.Usar bibliotecas de terceiros quando possível, em vez de escrever código personalizado, para economizar tempo e evitar erros comuns.
-6.Fazer testes de unidade e integração para garantir que o código esteja funcionando corretamente.
-7.Usar controle de versão para rastrear mudanças no código e colaborar com outros desenvolvedores.
+1 - Desenvolvimento:
+Para o desenvolvimento do aplicativo do YouTube, recomenda-se como definir um conjunto de diretrizes que orientam o desenvolvimento de código consistente e legível em todo o projeto. 
+O objetivo é garantir que o código seja fácil de entender, manter e escalar, independentemente de quem o desenvolva ou mantenha. Para tanto, faz-se necessário estabelecer padrões claros de nomenclatura de classes, 
+métodos, variáveis e funções, que sejam descritivos e concisos.
+EX: poderíamos utilizar nomes autoexplicativos como "UserController" para uma classe que gerencia usuários, "getVideoDetails" para um método que retorna detalhes de um vídeo 
+ou "thumbnailImage" para uma variável que armazena a imagem em miniatura de um vídeo.
+
+2 - Documentação:
+Como documentação, ao longo de toda atividade de desenvolvimento se faz necessário usar comentários para explicar o propósito do código e como ele funciona.
+
+3 - Padrão de formatação de código:
+Podemos utilizar indentação, espaçamento e alinhamento, para que o código seja legível e organizado. Afim de ganhar tempo durante o desenvolvimento, podemos fazer uso de ferramentas de automatizadas de formatação, como por exemplo 
+Prettier ou o ESLint, para garantir que o código siga as diretrizes de formatação.Além disso, podemos usar o idioma inglês como padrão do código, uma vez que as próprias funções, métodos e bibliotecas do python são em inglês.
+
+4 - Padrão para estrutura de pastas e arquivo:
+A fim de manter a organização do projeto, ficou decidido manter nomes de pastas para cada tipo de arquivo.
+A pasta "models" para arquivos relacionados a modelos de dados, uma pasta "controllers" para arquivos relacionados a lógica de controle, uma pasta "views" para arquivos de visualização.
+
+5 - Escrever funções simples e modularizadas, que executem uma única tarefa.
+
+6 - Sempre que possível, usar bibliotecas de terceiros quando possível, em vez de escrever código personalizado, para economizar tempo e evitar erros comuns.
+
+7 - Fazer testes de unidade e integração para garantir que o código esteja funcionando corretamente.Se possível utilizando o pytest como ferramenta de automação.
+
+8 - Usar controle de versão para rastrear mudanças no código e colaborar com outros desenvolvedores.
 
 Conclusão:
-O aplicativo do YouTube é uma plataforma de compartilhamento de vídeos online que oferece uma experiência de usuário excepcional. Para desenvolver o aplicativo, é importante seguir os padrões de código e nomenclatura recomendados pela Google para garantir a qualidade e a manutenibilidade do código.
+O aplicativo do YouTube é uma plataforma de compartilhamento de vídeos online que oferece uma experiência de usuário excepcional.
+Para desenvolver o aplicativo, é importante seguir os padrões de código e nomenclatura recomendados pela Google para garantir a qualidade e a manutenibilidade do código.
