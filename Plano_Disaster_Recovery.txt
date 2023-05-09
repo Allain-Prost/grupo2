@@ -1,0 +1,55 @@
+Introdução
+Este documento tem como objetivo fornecer uma estrutura para o plano de recuperação de desastres de um software tipo YouTube em um ambiente na nuvem. 
+O plano de recuperação de desastres visa minimizar o tempo de inatividade e garantir a disponibilidade contínua do software, mesmo em caso de desastres. 
+O plano deve ser criado com base nas necessidades específicas do software em questão e deve ser atualizado regularmente para garantir que esteja sempre atualizado.
+
+Casos de Desastre
+A seguir, estão cinco casos de desastres que podem afetar um software tipo YouTube em um ambiente na nuvem:
+
+1 - Fracasso de hardware: Mesmo em um ambiente na nuvem, o fracasso de hardware ainda é uma possibilidade. Isso pode incluir falhas no disco rígido, problemas com o 
+servidor ou até mesmo a perda total do data center do provedor de nuvem.
+
+2 - Falha do software: Problemas no software podem ocorrer devido a erros de programação, bugs ou incompatibilidades de software. Esses problemas podem afetar a 
+funcionalidade do software e podem resultar em inatividade.
+
+3 - Ataques cibernéticos: Ataques cibernéticos, como ransomware, malware e hacking, são uma ameaça constante para o software. Eles podem resultar em roubo de dados, 
+interrupções no sistema e até mesmo a destruição total do software.
+
+4 - Desastres naturais: Embora seja menos provável em um ambiente na nuvem, desastres naturais, como terremotos, furacões e inundações, ainda podem ter um impacto 
+significativo no software. Eles podem resultar em interrupções no sistema,
+perda de dados e até mesmo a destruição total do data center do provedor de nuvem.
+
+5 - Falha de energia: Falhas de energia podem ser causadas por falhas no fornecimento de energia elétrica ou falhas nos geradores de backup do provedor de nuvem. 
+Isso pode resultar em inatividade do sistema e perda de dados.
+
+Formas de Identificar os Casos de Desastre
+Para identificar os casos de desastre, é necessário implementar um sistema de monitoramento e alerta no ambiente na nuvem. O sistema deve ser capaz de detectar 
+falhas no hardware, software e problemas de rede, 
+além de monitorar as condições ambientais do data center do provedor de nuvem. O monitoramento deve ser realizado de forma contínua para que qualquer problema 
+possa ser detectado rapidamente e medidas adequadas possam ser tomadas.
+
+Estratégias de Recuperação
+Para garantir a recuperação rápida e eficiente do software, é importante ter um plano de recuperação de desastres em vigor. O plano deve incluir as seguintes 
+estratégias:
+
+1 - Recuperação de backup: Em caso de falha de hardware, é importante ter um backup do ambiente que possa ser usado para restaurar o serviço. Para isso, pode-se 
+implementar uma estratégia de backup que inclua a cópia regular dos dados do software e do ambiente de hospedagem. Os backups devem ser armazenados em um local 
+seguro fora do provedor de nuvem para evitar a perda de dados em caso de desastres que afetem o provedor.
+
+2 - Failover para um ambiente de backup: Em caso de falha do sistema ou do provedor de nuvem, é importante ter um ambiente de backup disponível para garantir a 
+continuidade do serviço. Para isso, pode-se implementar uma estratégia de failover, que consiste em transferir o tráfego do software para um ambiente de backup, 
+que pode estar localizado em outra região geográfica ou em outro provedor de nuvem. Isso pode ser feito de forma automática ou manual, dependendo da complexidade 
+do ambiente e dos requisitos de negócios.
+
+3 - Isolamento e contenção do incidente: Em caso de ataque cibernético, é importante isolar e conter o incidente para evitar que se espalhe para outras partes do 
+ambiente. Para isso, pode-se implementar uma estratégia de segmentação 
+de rede, que divide o ambiente em zonas de segurança isoladas umas das outras.
+
+4 - Planejamento de contingência: Em caso de desastres naturais, é importante ter um plano de contingência claro que inclua a evacuação do ambiente, a implementação 
+de medidas de proteção de dados e a recuperação do ambiente.
+
+5 - Redundância de energia: Em caso de falha de energia, uma das estratégias mais importantes a ser implementada é a de redundância de energia. 
+Esta é uma estratégia de recuperação de desastres que pode ser útil em caso de falha de energia. Nestecaso é importante ter uma fonte alternativa de energia 
+para manter o ambiente em funcionamento. Isso pode ser feito através da implementação de fontes de energia redundantes, como geradores de energia ou baterias.
+Além disso é importante  implementar técnicas de economia de energia, como desligar componentes não essenciais do ambiente durante períodos de inatividade ou 
+implementar configurações de energia eficientes. Isso pode ajudar a prolongar a duração das baterias ou a reduzir a carga dos geradores.
