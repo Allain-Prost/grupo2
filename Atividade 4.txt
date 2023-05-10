@@ -1,0 +1,22 @@
+4-Resumo de como serão feitos os testes, como será usada a automação de testes e as estratégias de deploy
+
+Testes:
+Para garantir a qualidade do aplicativo do YouTube, é importante realizar testes regulares em diferentes níveis. Algumas estratégias de testes incluem:
+1.Testes unitários: testes automatizados que verificam o comportamento de funções individuais ou módulos do código.
+2.Testes de integração: testes que verificam como diferentes partes do aplicativo funcionam juntas, por exemplo, como a interface do usuário interage com a lógica de negócios.
+3.Testes de sistema: testes que verificam o comportamento geral do aplicativo em diferentes cenários, como com diferentes tamanhos de vídeo, conexões de internet, etc.
+4.Testes de regressão: testes que verificam se as alterações recentes no código não causaram problemas em outras partes do aplicativo que já funcionavam corretamente.
+
+Automação de testes:
+A automação de testes permite que esses testes sejam executados automaticamente, reduzindo o tempo necessário para realizá-los e minimizando o risco de erro humano. Além disso, a cobertura de testes é monitorada e reportada regularmente para garantir que todas as partes do sistema estejam sendo testadas adequadamente. Isso permite que a equipe de desenvolvimento tenha uma visão clara da qualidade do software e tome medidas proativas para corrigir problemas.
+Para a automação de testes, serão utilizadas ferramentas como JUnit e Selenium, que permitem a criação e execução automatizada dos testes. Isso reduz o tempo necessário para realizá-los e minimiza o risco de erro humano. Além disso, a cobertura de testes será monitorada e reportada regularmente para garantir que todas as partes do sistema estejam sendo testadas adequadamente.
+
+Estratégias de deploy:
+O deploy é a etapa final do processo de desenvolvimento, onde o aplicativo YouTube é colocado em produção. Para garantir um deploy tranquilo e seguro, é recomendado seguir algumas estratégias, como:
+1.Executar teste rigorosamente antes do deploy
+2.Implemente mudanças gradualmente
+3.Fazer os rollbacks rapidamente
+4.Monitorar o desempenho
+5.Manter a infraestrutura atualizada
+
+
