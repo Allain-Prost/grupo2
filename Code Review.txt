@@ -1,5 +1,3 @@
-5-Comentem sobre a importância de usar code review! (No documento).
-
 O code review é um processo em que outro desenvolvedor revisa o código antes de ser fundido com o branch principal do repositório. Essa prática é de extrema importância para o desenvolvimento de software, e pode trazer diversos benefícios para a qualidade do código e para o desempenho do time de desenvolvimento.
 Abaixo listamos algumas razões pelas quais o code review é importante para a plataforma YouTube:
 
