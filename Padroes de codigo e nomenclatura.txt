@@ -1,4 +1,5 @@
-3-Cada grupo será tratado como uma empresa, entregar um documento descrevendo seu app e empresa, cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento desse software.
+Padrão de código e nomenclatura
+ser usados no desenvolvimento desse software.
 
 Introdução:
 O YouTube é uma plataforma de compartilhamento de vídeos online que permite aos usuários enviar, visualizar, avaliar, comentar e compartilhar vídeos. O YouTube é uma empresa da Google LLC, que foi fundada em 2005. Com mais de 2 bilhões de usuários ativos mensais, o YouTube é a maior plataforma de compartilhamento de vídeos do mundo.

@@ -1,4 +1,4 @@
-4-Resumo de como serão feitos os testes, como será usada a automação de testes e as estratégias de deploy
+Testes e estratégias de deploy
 
 Testes:
 Para garantir a qualidade do aplicativo do YouTube, é importante realizar testes regulares em diferentes níveis. Algumas estratégias de testes incluem:
