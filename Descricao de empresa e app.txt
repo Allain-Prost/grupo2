@@ -1,0 +1,14 @@
+Visão geral da empresa:
+Somos uma empresa especializada no desenvolvimento de sites e aplicativos, usando as tecnologias mais recentes e as melhores práticas da indústria. Nosso objetivo é ajudar nossos clientes a alcançar seus objetivos 
+por meio de soluções digitais que melhoram a experiência de seus usuários, aumentam a eficiência e gerando resultados mensuráveis.
+
+Como carro chefe, oferecemos serviços de desenvolvimento de plataforma de streaming de ponta a ponta para aqueles que desejam transmitir conteúdo ao vivo ou sob demanda.
+As plataformas por nós desenvolvidas são personalizáveis, escaláveis e fáceis de usar, com recursos avançados que permitem aos usuários gerenciar e monetizar seu conteúdo de streaming de forma eficaz.
+
+Nossa equipe é formada por especialistas em tecnologia, desenvolvedores, QAs, engenheiros de software e especialistas em mídia.
+
+
+Descrição do aplicativo:
+O YouTube é uma plataforma de compartilhamento de vídeos online que permite aos usuários enviar, visualizar, avaliar, comentar e compartilhar vídeos. O YouTube é uma empresa da Google LLC, que foi fundada em 2005.
+Com mais de 2 bilhões de usuários ativos mensais, o YouTube é a maior plataforma de compartilhamento de vídeos do mundo.
+O aplicativo tem uma interface de usuário intuitiva que permite aos usuários encontrar facilmente os vídeos que desejam assistir, bem como recomendações personalizadas com base no histórico de visualização do usuário.
